@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZobiaShakil
 - 👀 I’m interested in learning more in the field of Computer Science.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning python.
 
 
 
