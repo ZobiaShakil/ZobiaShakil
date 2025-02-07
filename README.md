@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZobiaShakil
+- 👋 Hi, I’m Zobia!
 - 👀 I’m interested in learning more in the field of Computer Science.
 - 🌱 I’m currently learning python.
 
