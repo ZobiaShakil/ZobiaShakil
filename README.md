@@ -3,7 +3,7 @@
 ### 🌟 About Me
 - 🎓 I'm a Computer Science undergraduate student.
 - 🤖 Passionate about exploring the exciting fields of Data Science and Artificial Intelligence.
-- 🐍 I'm currenlty learning Python programming.
+- 🐍 I'm currenlty learning Machine learning.
 
 Feel free to check out my repositories and connect with me!
 
